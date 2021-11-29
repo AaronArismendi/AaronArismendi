@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AaronArismendi.
+- 👀 I’m interested in learning data science.
+- 🌱 I’m currently learning Python and SQL. 
+- 📫 How to reach me: aaronarismendis@gmail.com
